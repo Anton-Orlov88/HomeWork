@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cacdbc75-6d26-41d1-9003-398333ac2be7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2/1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../2/1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2/1/out/production/Runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../2/1/out/production/Runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2/1/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../2/1/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/out/production/Runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../1/out/production/Runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../1/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/out/production/Runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../2/out/production/Runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/out/production/Runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../3/out/production/Runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/out/production/Runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../4/out/production/Runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../4/src/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Runner.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hbR5qV5QdGnCTCB0NKQdGXVhPU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="Runner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cacdbc75-6d26-41d1-9003-398333ac2be7" name="Default Changelist" comment="" />
+      <created>1600277624967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600277624967</updated>
+      <workItem from="1600277631255" duration="2195000" />
+      <workItem from="1600497135978" duration="783000" />
+      <workItem from="1600965943560" duration="46000" />
+      <workItem from="1602182568033" duration="487000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
